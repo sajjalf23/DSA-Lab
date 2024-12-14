@@ -1,0 +1,39 @@
+1
+Asif Ali
+3.59
+
+2
+Shahid Waseem
+3.22
+
+3
+Khurram Bajwa
+3.05
+
+4
+Mushtaq Ahmed
+2.99
+
+5
+Bilal Yousaf
+2.54
+
+6
+Muhammad Ali
+3.22
+
+7
+Ahmed Ali
+2.15
+
+8
+Waseem
+3.22
+
+9
+Jameel
+3.01
+
+10
+Zaheer Sharif
+2.59

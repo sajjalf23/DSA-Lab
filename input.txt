@@ -1,0 +1,39 @@
+1
+Introduction to Algorithms
+500.00
+
+2
+Clean Code
+450.00
+
+3
+The Pragmatic Programmer
+400.00
+
+4
+Design Patterns
+550.00
+
+5
+Code Complete
+480.00
+
+6
+Effective C++
+420.00
+
+7
+Programming Pearls
+380.00
+
+8
+Refactoring
+430.00
+
+9
+Head First Design Patterns
+390.00
+
+10
+Structure and Interpretation of Computer Programs
+520.00
